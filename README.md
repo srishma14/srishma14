@@ -1,4 +1,4 @@
-## Hi there iam srishma👋
+## Hi iam srishma👋
 
 <!--
 *Welcome to my GitHub profile! I'm a passionate and curious tech learner who enjoys building useful and impactful projects.
